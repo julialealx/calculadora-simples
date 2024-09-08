@@ -1,3 +1,6 @@
+"""
+Calculadora Simples
+"""
 def calculadora():
     while True:
         print("Calculadora Simples")
